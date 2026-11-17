@@ -89,3 +89,19 @@ ReactNative
 ## 9. Kết luận
 
 Hoàn thành bài thực hành xây dựng giao diện ứng dụng React Native sử dụng Stack Navigation.
+
+## 10. Hình ảnh kết quả
+
+### 10.1. Màn hình HomeScreen
+<img width="333" height="644" alt="HomeScreen" src="https://github.com/user-attachments/assets/f859649d-8126-4b20-95f9-7c3454e34b34" />
+
+### 10.2. Màn hình ListScreen
+<img width="329" height="523" alt="ListScreen" src="https://github.com/user-attachments/assets/22e76fb3-175c-47f1-853b-7880a8271da3" />
+
+
+### 10.3. Màn hình DetailScreen
+<img width="328" height="537" alt="DetailScreen" src="https://github.com/user-attachments/assets/716ead8a-b844-4cf6-9f81-cea014ba79e6" />
+
+
+## 11. Mã nguồn
+Link GitHub: https://github.com/httung9506-svg/ReactNative/tree/main/Bai02/Bt04
